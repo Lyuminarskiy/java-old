@@ -7,6 +7,3 @@
 - [Одномерные массивы](https://github.com/Vladislav-Lyuminarskiy/Java-course/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961/%D0%9E%D0%B4%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B.md)
 - [Двумерные массивы](https://github.com/Vladislav-Lyuminarskiy/Java-course/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961/%D0%94%D0%B2%D1%83%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B.md)
 - [Операции со строками](https://github.com/Vladislav-Lyuminarskiy/Java-course/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8%20%D1%81%D0%BE%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0%D0%BC%D0%B8.md)
-
-Материалы:
-- [Программирование на Java / Патрик Нимейер, Дэниэл Леук; [пер. с англ. М.А. Райтмана]. - Москва: Эксмо, 2014. - 1216 с. - (Мировой компьютерный бестселлер)](https://cloud.mail.ru/files/2F7B8D9968D742DDB980101061A64780/).
