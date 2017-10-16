@@ -70,5 +70,4 @@ Out[2]: 0x1EA86E72
 
 Как видим, в результате получилось успешно поменять байты местами.
 
-
 [Посмотреть полный код примера](https://github.com/Vladislav-Lyuminarskiy/Java-course/blob/master/lab1/examples/bits/Main.java)
