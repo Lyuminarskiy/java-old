@@ -4,7 +4,7 @@
 
 Выполните задачу в соответствии со своим номером в списке группы.
 
-[Пример решения задачи](https://github.com/Vladislav-Lyuminarskiy/Java-course/tree/master/lab1/examples/arrray1d)
+[Пример решения задачи](https://github.com/Vladislav-Lyuminarskiy/Java-course/tree/master/lab1/examples/array1d)
 
 ## Задачи
 
