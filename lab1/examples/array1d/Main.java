@@ -13,6 +13,7 @@ public class Main {
         // Заполняем массив случайными числами.
         System.out.print("In [0]: { ");
         for (int i = 0; i < input.length; i++) {
+            // Получим случайное число в диапазоне [0; 100].
             input[i] = (int)(Math.random() * 100);
             System.out.print(input[i] + " ");
         }
