@@ -1,4 +1,4 @@
-[Назад](https://github.com/Vladislav-Lyuminarskiy/Java-course/tree/master/Лабораторная%20работа%20№1)
+[Назад](https://github.com/Vladislav-Lyuminarskiy/Java-course/tree/master/lab1)
 
 # Операции со строками
 

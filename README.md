@@ -1,8 +1,8 @@
 # Программирование на Java
 
 Список лабораторных работ:
-- [Лабораторная работа №1](https://github.com/Vladislav-Lyuminarskiy/Java-course/tree/master/Лабораторная%20работа%20№1)
-- [Лабораторная работа №2](https://github.com/Vladislav-Lyuminarskiy/Java-course/tree/master/Лабораторная%20работа%20№2)
+- [Лабораторная работа №1](https://github.com/Vladislav-Lyuminarskiy/Java-course/tree/master/lab1)
+- [Лабораторная работа №2](https://github.com/Vladislav-Lyuminarskiy/Java-course/tree/master/lab2)
 
 
 Список литературы:
