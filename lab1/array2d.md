@@ -1,4 +1,4 @@
-[Назад](https://github.com/Vladislav-Lyuminarskiy/Java-course/tree/master/lab1)
+[Назад к описанию лабораторной работы](https://github.com/Vladislav-Lyuminarskiy/Java-course/tree/master/lab1)
 
 # Двумерные массивы
 

@@ -1,4 +1,4 @@
-[Назад](https://github.com/Vladislav-Lyuminarskiy/Java-course)
+[Назад к оглавлению](https://github.com/Vladislav-Lyuminarskiy/Java-course)
 
 # Лабораторная работа №1
 
