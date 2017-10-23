@@ -1,5 +1,3 @@
-package array2d;
-
 public class Main {
     /**
      * Меняет местами байты в числе.

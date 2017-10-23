@@ -1,5 +1,3 @@
-package bits;
-
 public class Main {
     /**
      * Меняет местами байты в числе.
