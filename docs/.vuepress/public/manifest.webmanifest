@@ -1,0 +1,22 @@
+{
+  "lang": "ru-RU",
+  "name": "Программирование на Java",
+  "short_name": "Программирование на Java",
+  "description": "Учебные материалы по курсу 'Программирование на Java'.",
+  "start_url": "/Java-course-website",
+  "theme_color": "#3eaf7c",
+  "background_color": "#3eaf7c",
+  "display": "standalone",
+  "orientation": "any",
+  "icons": [{
+      "src": "/Java-course-website/icons/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/Java-course-website/icons/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
