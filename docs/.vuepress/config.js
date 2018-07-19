@@ -31,7 +31,11 @@ module.exports = {
       {
         title: 'Лабораторные работы',
         collapsable: false,
-        children: []
+        children: [
+          '/labs/01',
+          '/labs/02',
+          '/labs/03',
+        ]
       },
     ],
     lastUpdated: true,
