@@ -38,10 +38,11 @@ module.exports = {
         ]
       },
     ],
-    lastUpdated: true,
+    lastUpdated: 'Последнее обновление',
     repo: 'Vladislav-Lyuminarskiy/Java-course',
     docsDir: 'docs',
-    editLinks: true
+    editLinks: true,
+    editLinkText: 'Редактировать эту страницу'
   },
   serviceWorker: true
 }
