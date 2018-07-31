@@ -1,6 +1,7 @@
-dist
-node_modules
-
+# IDE
+.vscode
 **/.idea
-**/out
-**.iml
+
+# Build artifacts
+node_modules
+**/dist
