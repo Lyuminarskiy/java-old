@@ -42,7 +42,13 @@ module.exports = {
     repo: 'Vladislav-Lyuminarskiy/Java-course',
     docsDir: 'docs',
     editLinks: true,
-    editLinkText: 'Редактировать эту страницу'
+    editLinkText: 'Редактировать эту страницу',
+    serviceWorker: {
+      updatePopup: {
+        message: "Доступно новое содержимое.",
+        buttonText: "Обновить"
+      }
+    }
   },
   serviceWorker: true
 }
