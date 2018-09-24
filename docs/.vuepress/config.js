@@ -48,7 +48,15 @@ module.exports = {
         message: "Доступно новое содержимое.",
         buttonText: "Обновить"
       }
+    },
+    algolia: {
+      apiKey: '892ad28dc056e1eb225c126678ef1c09',
+      indexName: 'c_vladislav',
+      algoliaOptions: {
+        facetFilters: ["tags:java"]
+      }
     }
   },
-  serviceWorker: true
+  serviceWorker: true,
+  evergreen: true
 }
