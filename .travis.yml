@@ -1,20 +1,25 @@
 language: node_js
 node_js: node
 
-install: npm install --save-dev vuepress
-
-stages:
-  - Deploy
+notifications:
+  email:
+    on_success: never
+    on_failure: always
 
 jobs:
   include:
     - stage: Deploy
-      script: npm run docs:build
+      install:
+        - npm install --save-dev vuepress
+      script:
+        - npm run docs:build
+      after_success:
+        - mv README.md LICENSE docs/.vuepress/dist --verbose
       deploy:
         skip-cleanup: true
         provider: pages
         github-token: $GITHUB_TOKEN
-        repo: Vladislav-Lyuminarskiy-websites/Java-course-website
+        repo: Java-materials/java-materials.github.io
         target-branch: master
         local-dir: docs/.vuepress/dist
         on:
