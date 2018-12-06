@@ -1,7 +1,9 @@
-# IDE
-.vscode
-**/.idea
-
-# Build artifacts
 node_modules
 **/dist
+
+.vscode
+
+.idea/**
+!.idea/Web-course.iml
+!.idea/modules.xml
+!.idea/vcs.xml

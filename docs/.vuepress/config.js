@@ -1,5 +1,4 @@
 module.exports = {
-  base: '/Java-course-website/',
   head: [
     ['meta', {
       name: 'author',
@@ -39,7 +38,7 @@ module.exports = {
       },
     ],
     lastUpdated: 'Последнее обновление',
-    repo: 'Vladislav-Lyuminarskiy/Java-course',
+    repo: 'Java-materials/Java-course',
     docsDir: 'docs',
     editLinks: true,
     editLinkText: 'Редактировать эту страницу',
@@ -59,4 +58,4 @@ module.exports = {
   },
   serviceWorker: true,
   evergreen: true
-}
+};
