@@ -4,6 +4,6 @@ node_modules
 .vscode
 
 .idea/**
-!.idea/Web-course.iml
+!.idea/Java-course.iml
 !.idea/modules.xml
 !.idea/vcs.xml
