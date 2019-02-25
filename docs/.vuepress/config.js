@@ -15,6 +15,10 @@ module.exports = {
     ['link', {
       rel: 'manifest',
       href: '/manifest.webmanifest'
+    }],
+    ["link", {
+      rel: "license",
+      href: "/LICENSE"
     }]
   ],
   locales: {
@@ -25,6 +29,25 @@ module.exports = {
     }
   },
   themeConfig: {
+    docsDir: 'docs',
+    lastUpdated: 'Последнее обновление',
+    editLinkText: 'Редактировать эту страницу',
+    serviceWorker: {
+      updatePopup: {
+        message: "Доступно новое содержимое.",
+        buttonText: "Обновить"
+      }
+    },
+    algolia: {
+      apiKey: '892ad28dc056e1eb225c126678ef1c09',
+      indexName: 'c_vladislav',
+      algoliaOptions: {
+        facetFilters: [
+          "lang:ru-RU",
+          "tags:java-course"
+        ]
+      }
+    },
     sidebar: [
       '/',
       {
@@ -37,25 +60,8 @@ module.exports = {
         ]
       },
     ],
-    lastUpdated: 'Последнее обновление',
     repo: 'Java-materials/Java-course',
-    docsDir: 'docs',
     editLinks: true,
-    editLinkText: 'Редактировать эту страницу',
-    serviceWorker: {
-      updatePopup: {
-        message: "Доступно новое содержимое.",
-        buttonText: "Обновить"
-      }
-    },
-    algolia: {
-      apiKey: '892ad28dc056e1eb225c126678ef1c09',
-      indexName: 'c_vladislav',
-      algoliaOptions: {
-        facetFilters: ["tags:java"]
-      }
-    }
-  },
-  serviceWorker: true,
-  evergreen: true
+    evergreen: true
+  }
 };
